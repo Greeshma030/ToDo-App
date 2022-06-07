@@ -1,2 +1,2 @@
 # ToDo-App
-A basic  todo app with CRUD functionalities
+A basic ToDoApp built with Node.js, Express.js, MongoDB, React.js, with CRUD functionalities
